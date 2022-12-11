@@ -1,4 +1,4 @@
-# pageview_module
+# Pageview Module
 
 A flutter app demonstrating the implementation of pageview.
 
